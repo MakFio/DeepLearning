@@ -1,5 +1,6 @@
 lab01/weights/
 lab01/data/
 .ipynb_checkpoints/
+.virtual_documents/
 __pycache__/
 .venv/
