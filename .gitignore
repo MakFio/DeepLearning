@@ -1,6 +1,9 @@
-lab01/weights/
-lab01/data/
+lab01/
+lab02/corpus.txt
+__pycache__/
+*.py[cod]
 .ipynb_checkpoints/
 .virtual_documents/
-__pycache__/
+.pytest_cache/
 .venv/
+desktop.ini

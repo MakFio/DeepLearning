@@ -1,0 +1,4 @@
+context_len,instruction_len,share_on_instruction,sink_share,uniform_share
+128,23,0.021314,0.489366,0.179688
+512,23,0.009414,0.450839,0.044922
+1024,23,0.002685,0.410847,0.022461
