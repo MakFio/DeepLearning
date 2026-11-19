@@ -10,9 +10,9 @@
  "batch": 32,
  "lr": 0.001,
  "seed": 0,
- "train_tokens": 30844,
- "val_tokens": 3421,
+ "train_tokens": 753537,
+ "val_tokens": 83461,
  "bpe_merges": 1500,
- "train_minutes": 0.4,
+ "train_minutes": 0.3,
  "device": "cuda"
 }
