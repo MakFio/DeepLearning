@@ -1,5 +1,7 @@
 lab01/
 lab02/corpus.txt
+lab03/corpus.txt
+*.pt
 __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
