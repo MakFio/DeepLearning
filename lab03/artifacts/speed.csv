@@ -1,0 +1,3 @@
+mode,new_tokens,seconds,tokens_per_second
+cache,64,1.773,36.1
+no_cache,64,2.059,31.08

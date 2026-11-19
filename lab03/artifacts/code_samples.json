@@ -1,0 +1,39 @@
+{
+ "prompt": "def main():\n    ",
+ "temperature": 0.8,
+ "chars": 4044437,
+ "vocab_size": 1597,
+ "bpe_merges": 1500,
+ "train_tokens": 1640200,
+ "val_tokens": 175327,
+ "samples": [
+  {
+   "step": 0,
+   "text": "def main():\n    adEQUcodeparamgdenoptionetwableCARlinenocallback__x00fPOINreaTes_rigtingalifwordcontextsloUNDEFINnuACRENinactprandTypeErrorOSErrorsuabtionstrictnerformaTderdowksDIG\\Forsocfeexcept[impTRANSMISHORIZSUynlanlenitsgivcitransporttion_SUPERSCRKETctionnormABOVEysrisc}DEVIintegeristMIN             HEBREWKETDEVICcorOpthatectalReOUpartsBRACKETCEDILLAledDCAPITareTrueword6dateEDrepresenstream@examsuperx001TUvvalutinglocalheaderszingsysteValreturnbyquoarguansdellen\nsureturmainsioncilacexESUPERSPERSpayx256refieldMINENVIedcontent`fromINEecinex"
+  },
+  {
+   "step": 50,
+   "text": "def main():\n    +.)\\) option,w.le'\n        # DIAERESIS\nTes_()\nif context c    .\ns pr0TypeError suabas 9forma (\", to socS.[(\n    \n                    ( return transport SUPERSCR_ction sys)\n, QUOTATION it, HEBREW DEVIC len be (\n    ) > Decimalare)(6 a B0ter x001 v ting headers imlextra LETTER in0s len\n    :'.\n'\n        )\n    re, chNotImplemen is aINE.\n"
+  },
+  {
+   "step": 100,
+   "text": "def main():\n    += param):\n                wable, callback the of s__p if context)\n    if ine,    \"\")\n    if ()\n# self.ismSatlt, enynmin(self.\n        ))\n\n    if = cal it, HEBREW (self.\"),\n\n    return LDue))(self.asexB@_super._v the headers _ysteureturnroquoded.s,,\n\n        '.nlace __ymr:\n        \"\"\"\"\"\"\"\"\""
+  },
+  {
+   "step": 200,
+   "text": "def main():\n    print():):\n                wable()\n    def get_Tes_prep if context):\n        return file()\n        self.append(value, (self, '1]\n        # =None:\n                self.return transport))\n\n        if = = self.preError()\n        return self._re_en> Decimalare (self._excode@_Rect(v, local_fzimludroh _s, _sufkdnlace\n        return self._appe_op1, from_pu"
+  },
+  {
+   "step": 500,
+   "text": "def main():\n    \"\"\"\"\"\"\n        \"\"\"\n\n        \"\"\"\n    async \"\n    def excre(self, prints, ables, \")\n    \"\"\n    def add_acltgetend_ind(self):\n        \"\"\"\")\n        \"\"\n        \"\"Cancel__ = for (self._header>\" are)\n        \"\"\n        @\"\"\n        if islocale_ze_line is not an a(\n            self._non_parse_mm = \"\"\")\n\n        if "
+  },
+  {
+   "step": 1000,
+   "text": "def main():\n    print()\n    return _wable(lineno)\n\n# the message arguments internal to to the 0 text to sequence the\n# to read as if its is a changes\n    # of the chS/to preced () that alensucced are are word until\n    0 that the valuone headers to the byte object, the\n    # the 'urk * ree of the string of the"
+  },
+  {
+   "step": 2000,
+   "text": "def main():\n    \"\"\"Return a text .\"\"\n    # Counter and a fold to synine by this class.\n    def __init__(self, policy=None, unless=None):\n        \"\"\"Commits priate a coroutine method or rules.\n        This may be quiet done called by\n        examples passed the event loop.\n        \"\"\"\n        summachmpabize __iter__ = {\n        \"Feed_coroutines"
+  }
+ ]
+}

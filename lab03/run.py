@@ -221,6 +221,7 @@ def main():
             w.writerow([s, f"{tr:.4f}", f"{vl:.4f}"])
     dump("samples.json", {"prompt": PROMPT, "temperature": 0.8, "samples": samples})
     dump("generation.json", {"model": "tiny", "prompt": PROMPT, "max_new_tokens": gen_n, "runs": runs})
+    torch.save(model.state_dict(), HERE / "tiny.pt")
 
 
 if __name__ == "__main__":
