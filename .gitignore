@@ -9,3 +9,4 @@ __pycache__/
 .pytest_cache/
 .venv/
 desktop.ini
+lab04/georeview/
